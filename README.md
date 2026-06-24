@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Melika Mansouri❤️</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=007ACC&width=650&lines=   Database+%26+Data+Management+Enthusiast;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=007ACC&width=650&lines=Database+%26+Data+Management+Enthusiast❤️;Always+learning%2C+always+building❤️" alt="Typing SVG" />
 </p>
 
 ---
